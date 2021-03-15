@@ -1,5 +1,7 @@
 # hexo-tag-tiy
 
+npm: [hexo-tag-tiy](https://www.npmjs.com/package/hexo-tag-tiy)
+
 > TIY 是 Try It Yourself 的缩写，此处特指 [Xecades](https://github.com/Xecades/) 开发的版本。
 
 Hexo 博客内嵌 [TIY HTML 调试器](https://tiy.xecades.xyz/)，可用作在线 HTML 代码运行和调试.

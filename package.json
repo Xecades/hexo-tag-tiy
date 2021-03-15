@@ -1,6 +1,6 @@
 {
     "name": "hexo-tag-tiy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "hexo 内嵌 HTML 代码调试器",
     "main": "index.js",
     "keywords": [
@@ -19,5 +19,5 @@
         "type": "git",
         "url": "git+https://github.com/Xecades/hexo-tag-tiy.git"
     },
-    "homepage": "https://github.com/Xecades/hexo-tag-tiy#readme"
+    "homepage": "https://github.com/Xecades/hexo-tag-tiy"
 }

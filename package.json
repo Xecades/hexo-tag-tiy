@@ -1,0 +1,23 @@
+{
+    "name": "hexo-tag-tiy",
+    "version": "0.0.1",
+    "description": "hexo 内嵌 HTML 代码调试器",
+    "main": "index.js",
+    "keywords": [
+        "hexo",
+        "tag",
+        "html",
+        "embed",
+        "editor"
+    ],
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "'Xecades' <i@xecades.xyz> (https://xecades.xyz/)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xecades/hexo-tag-tiy.git"
+    },
+    "homepage": "https://github.com/Xecades/hexo-tag-tiy#readme"
+}
